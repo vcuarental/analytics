@@ -5,7 +5,7 @@
     <masterLabel>My DTC Sales</masterLabel>
     <shares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>vcb@einstein.com</sharedTo>
+        <sharedTo>vcb@analytics.com</sharedTo>
         <sharedToType>User</sharedToType>
     </shares>
 </WaveApplication>
